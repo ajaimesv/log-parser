@@ -1,4 +1,4 @@
-Java & MySQL Log Parser
+Web Log Parser
 =================================================
 
 Parses web log entries looking for IP addresses that have made at least N requests in a given period of time.
