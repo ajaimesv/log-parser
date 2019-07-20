@@ -1,7 +1,7 @@
 Java & MySQL Log Parser
 =================================================
 
-Parses web log entries looking for IP addresses that have made at least N requests in a given period.
+Parses web log entries looking for IP addresses that have made at least N requests in a given period of time.
 Useful for banning IP's.
 
 Database setup
